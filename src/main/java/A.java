@@ -5,5 +5,6 @@ public class A {
         System.out.println("str");
         System.out.println("wer");
         System.out.println("v2");
+        System.out.println("v3");
     }
 }
